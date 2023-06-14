@@ -1,1 +1,1 @@
-console.log("This is scenario 2");
+console.log("This is the scenario 2");
